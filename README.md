@@ -11,7 +11,6 @@ I'm Georgy Pavlov, a Computer Science student at Karlstad University, currently 
 ## Current Projects
 
 - 🚀 Exploring the fascinating world of technology
-- 🌐 Building cool stuff with Python and PHP
 
 ## Additional Info
 
