@@ -1,6 +1,6 @@
-# About this guy 👋
+# Intro
 
-I'm Georgy Pavlov, a Computer Science student at Karlstad University, currently living in Sweden. 🇸🇪
+I'm Georgy Pavlov, a Computer Science student at Karlstad University, Sweden
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm Georgy Pavlov, a Computer Science student at Karlstad University, currently 
 
 ## Current Projects
 
-- 🚀 Exploring the fascinating world of technology
+- 🌊 River Framework
 
 ## Additional Info
 
@@ -25,5 +25,9 @@ I'm Georgy Pavlov, a Computer Science student at Karlstad University, currently 
 ## Connect with Me
 
 Feel free to reach out!
+
+   |
+   |
+   v
 
 [![Telegram](https://img.shields.io/badge/%40wannabehakker-lightblue?logo=telegram&label=Telegram&labelColor=%232AABEE&color=%232AABEE)](https://t.me/wannabehakker)
