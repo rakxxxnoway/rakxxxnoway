@@ -15,7 +15,7 @@ I'm Georgy Pavlov, a Computer Science student at Karlstad University, Sweden
 ## Additional Info
 
 * Python
-    * Django Framwork
+    * Django Framework
     * Discord API
     * Scapy
 
