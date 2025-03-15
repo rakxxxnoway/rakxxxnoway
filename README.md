@@ -4,7 +4,7 @@ _«Something stupid might turn out to be the only solution»_
 
 ## [📊] Information:
 - No one yet to be honest
-- Do not lie
+- Do not lie (just sometimes)
 - Love to work with electronics & create
 - Speak three languages: 🇷🇺/🇺🇸/🇸🇪
 
