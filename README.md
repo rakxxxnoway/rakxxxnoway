@@ -2,8 +2,6 @@
 
 _«Something stupid might turn out to be the only solution»_
 
-<iframe frameborder="0" allow="clipboard-write" style="border:none;width:514px;height:144px;border-radius:1pc;" width="514" height="144" src="https://music.yandex.ru/iframe/album/4451092/track/35620998">Слушайте <a href="https://music.yandex.ru/album/4451092/track/35620998">Games</a> — <a href="https://music.yandex.ru/artist/149875">The Birthday Massacre</a> на Яндекс Музыке</iframe>
-
 ## [📊] Information:
 - No one yet to be honest
 - Do not lie
